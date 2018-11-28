@@ -8,12 +8,12 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>Adventure Works DW2017 1.cube</Name>
-      <FullPath>Adventure Works DW2017 1.cube</FullPath>
+      <Name>AdventureWorksDW2017.cube</Name>
+      <FullPath>AdventureWorksDW2017.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Adventure Works DW2017 1.partitions</Name>
-          <FullPath>Adventure Works DW2017 1.partitions</FullPath>
+          <Name>AdventureWorksDW2017.partitions</Name>
+          <FullPath>AdventureWorksDW2017.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
@@ -36,8 +36,8 @@
       <FullPath>Reseller.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Reseller Sales.dim</Name>
-      <FullPath>Reseller Sales.dim</FullPath>
+      <Name>SalesTerritory.dim</Name>
+      <FullPath>SalesTerritory.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
@@ -48,8 +48,8 @@
   </DataSources>
   <DataSourceViews>
     <ProjectItem>
-      <Name>Adventure Works DW2017.dsv</Name>
-      <FullPath>Adventure Works DW2017.dsv</FullPath>
+      <Name>AdventureWorksDW2017.dsv</Name>
+      <FullPath>AdventureWorksDW2017.dsv</FullPath>
     </ProjectItem>
   </DataSourceViews>
   <Configurations>

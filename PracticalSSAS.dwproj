@@ -8,12 +8,12 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>AdventureWorksDW2017.cube</Name>
-      <FullPath>AdventureWorksDW2017.cube</FullPath>
+      <Name>SalesCube.cube</Name>
+      <FullPath>SalesCube.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>AdventureWorksDW2017.partitions</Name>
-          <FullPath>AdventureWorksDW2017.partitions</FullPath>
+          <Name>SalesCube.partitions</Name>
+          <FullPath>SalesCube.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
